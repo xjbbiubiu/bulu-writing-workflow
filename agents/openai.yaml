@@ -1,0 +1,6 @@
+interface:
+  display_name: "Bulu Writing Workflow"
+  short_description: "Staged daily night-review writing workspace"
+  default_prompt: "Use $bulu-writing-workflow to create today's night-review draft workspace."
+policy:
+  allow_implicit_invocation: true
